@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class MemoryDemo {
+public class java_memory {
     public static void main(String[] args) {
         List<byte[]> blocks = new ArrayList<>();
         for (int i = 0; i < 5; i++) {
